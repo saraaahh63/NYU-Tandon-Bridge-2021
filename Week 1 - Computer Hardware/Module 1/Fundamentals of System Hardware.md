@@ -71,6 +71,8 @@ The designers of the CPU create a set of instructions that the CPU can perform. 
 
 The fetch-execute cycle is how the CPU runs commands. First, it fetches or moves one instruction from RAM into the instruction register in the CPU. Then, it decodes that instruction and, if necessary, moves in additional parameters from RAM. Once everything is compiled in the CPU, the CPU executes the instruction. This process repeats with the next instruction in the sequence and can take as little as 10 nanoseconds.
 
+![fetch-execute cycle diagram](.../images/fetch-execute.png)
+
 **NOTE: Machine Language Explained**
 
 Machine language is the language understood by a computer. It is the only thing a computer can work with. However, it is very difficult and tedious for us to write machine language because it consists completely of binary code (1s and 0s). So instead we use high level languages or what we know as programming languages like Python, C++, Java, etc. High level languages are converted into machine language using compilers which are computer programs built to process this language conversion. The language hierarchy from top to bottom consists of high level languages, assembly language, and machine language.
@@ -81,13 +83,7 @@ In order for code to be executed, it has to be in fetched into registers built i
 
 To address this, computers are built using a memory hierarchy. At the top of the hierarchy, things are incredibly fast, but tend to be much smaller and much more expensive like registers. At the bottom of the hierarchy, things are larger and cheaper, but much slower.
 
-**Memory Hierarchy Breakdown**
-
-1. Registers
-2. Cache
-3. RAM
-4. Secondary Storage 
-5. Tertiary Storage
+![memory hierarchy breakdown](.../images/memory.png)
 
 ### RAM
 
@@ -101,9 +97,9 @@ When running a program, all machine language instructions are brought into RAM a
 
 There are two types of secondary storage.
 
-**Hard Disk Drives (HDD)** also known as "spinning" drives contain multiple magnetic material discs which roate together at a constant velocity and read heads which move to different radii on the disk. This allows the system to access any position via the three dimensional polar coordinates. Accessing first the innermost radius then the outermost radius takes significantly longer than two adjacent radii. So, accessing data stored in a HDD is slower. However, the benefit is that HDDs are available in much larger sizes.
+**Hard Disk Drives (HDD)** also known as "spinning" drives contain multiple magnetic material discs which rotate together at a constant velocity and read heads which move to different radii on the disk. This allows the system to access any position via the three dimensional polar coordinates. Accessing first the innermost radius then the outermost radius takes significantly longer than two adjacent radii. So, accessing data stored in a HDD is slower. However, the benefit is that HDDs are available in much larger sizes.
 
-**Solid State Disks (SSD)** is where the industry is moving. SSDs contain a number of chips like USB flash drives. Data is stored electrically, in these chips and all data can be accessed in the same amount of time. There is no time difference like in HDDs. Although they perform much faster than HDDS, they tend to be much more expensive and much smaller.
+**Solid State Disks (SSD)** is where the industry is moving. SSDs contain a number of chips like USB flash drives. Data is stored electrically, in these chips and all data can be accessed in the same amount of time. There is no time difference like in HDDs. Although they perform much faster than HDDs, they tend to be much more expensive and much smaller.
 
 ## Networking
 
