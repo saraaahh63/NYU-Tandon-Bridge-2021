@@ -75,6 +75,7 @@ The fetch-execute cycle is how the CPU runs commands. First, it fetches or moves
   <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/fetch-execute.png" width=500>
 </p>
 
+
 **NOTE: Machine Language Explained**
 
 Machine language is the language understood by a computer. It is the only thing a computer can work with. However, it is very difficult and tedious for us to write machine language because it consists completely of binary code (1s and 0s). So instead we use high level languages or what we know as programming languages like Python, C++, Java, etc. High level languages are converted into machine language using compilers which are computer programs built to process this language conversion. The language hierarchy from top to bottom consists of high level languages, assembly language, and machine language.
@@ -88,6 +89,7 @@ To address this, computers are built using a memory hierarchy. At the top of the
 <p align="center">
   <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/memory.png" width=500>
 </p>
+
 
 ### RAM
 
