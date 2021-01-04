@@ -3,15 +3,15 @@ NOTE: This is a markdown version of [Positional Number Systems.pdf](https://gith
 # Positional Number Systems
 
 **Learning Objectives**
-* Understand Positional Number Systems
+* [Understand Positional Number Systems](#introduction)
 * Count in different number systems
-  * Base 10
-  * Base 5
-  * Base 2 / Binary
-  * Base 16 / Hexadecimal
-* Convert between different bases
-* Add and Subtract
-* Represent signed numbers
+  * [Base 10](#counting-in-base-10)
+  * [Base 5](#counting-in-base-5)
+  * [Base 2 / Binary](#counting-in-base-2)
+  * [Base 16 / Hexadecimal](#counting-in-base-16)
+* [Convert between different bases](#converting-between-bases)
+* [Add and Subtract](#addition-and-subtraction)
+* [Represent signed numbers](#signed-numbers)
 
 ## Introduction
 
@@ -33,7 +33,9 @@ In base 10, there are ten digits we use to represent the quantity of objects.
 
 After 9, we start to group objects together and repeat digits. **Numbers are written in a positional notation**.
 
-(image)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum1.jpeg" width=200>
+</p>
 
 Writing 230 is like saying 2 groups of 100, 3 groups of 10, and 0 additional 1s. 100 is just 10 groups of 10 and 0 additional 10s and 1s. 10 is once group of 10 and 0 additional 1s.
 
@@ -89,11 +91,15 @@ There are two methods of converting between bases. These methods use decimal of 
 
 ### N in Base B to N in Decimal
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum2.jpeg">
+</p>
 
 ### N in Decimal to N in Base B
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum3.jpeg">
+</p>
 
 ### Binary to Hexadecimal Conversion
 
@@ -105,11 +111,15 @@ To go from binary to hex, we go right to left and group the digits into groups o
 
 Let's breakdown why this works.
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum4.jpeg">
+</p>
 
 ## Addition and Subtraction
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum5.jpeg">
+</p>
 
 ## Signed Numbers
 
@@ -119,7 +129,9 @@ Approaches to representing signed numbers using only 0s and 1s:
 
 The first digit represents the sign and the trailing digits or "magnitude" represent the number.
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum7.jpeg">
+</p>
 
 ### Two's Complement
 
@@ -131,4 +143,6 @@ In a k-bit two's complement representation of a number:
 
 8-bit Two's Complement example:
 
-image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum6.jpeg">
+</p>
