@@ -79,13 +79,11 @@ What comes before 100?
 
 **ff** which represents 15 tens and 15 ones.
 
-## Equivalent Representations
+## Converting Between Bases
 
 (13)<sub>10</sub> = (15)<sub>8</sub> = (23)<sub>5</sub> = (1101)<sub>2</sub> = (D)<sub>16</sub>
 
 **Representation of number N in base b<sub>1</sub> --> Representation of number N in base b<sub>2</sub>**
-
-## Converting Between Bases
 
 There are two methods of converting between bases. These methods use decimal of base 10 as a stepping stone for conversions.
 
