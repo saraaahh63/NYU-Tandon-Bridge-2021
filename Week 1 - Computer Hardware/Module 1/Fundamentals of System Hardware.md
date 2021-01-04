@@ -32,6 +32,10 @@ Internal communications in a machine are done via a "bus." A bus is a physical p
 
 The system bus is the main pathway between the CPU and RAM, but also carries data to and from Input and Output (IO) devices.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/systembus.png" width=400>
+</p>
+
 **Overview of Computer Components**
 
 Power Supply
@@ -87,7 +91,7 @@ In order for code to be executed, it has to be in fetched into registers built i
 To address this, computers are built using a memory hierarchy. At the top of the hierarchy, things are incredibly fast, but tend to be much smaller and much more expensive like registers. At the bottom of the hierarchy, things are larger and cheaper, but much slower.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/memory.png" width=500>
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/memory.gif" width=500>
 </p>
 
 
