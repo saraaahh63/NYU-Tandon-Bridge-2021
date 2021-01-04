@@ -127,4 +127,4 @@ To connect across netwroks, we send very small amounts of data (usually around 1
 
 There are many layers that we use often. Application level protocols include HTTP (for websites), SMTP (to pass mail), and IMAP (to access mail). Logical protocols or, more formally, network protocols simulate the concept of connection. There are two types of network level protocols, connection oriented and connection less. These deal with the ordering and guarantee of delivery of packets and global delivery of packets. Physical protocols are mostly concerned with local addressing and how to deal with the eccentricities of the physical medium.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aD_yi5VjF78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Packets, routers, and reliability | Khan Academy Video](https://youtu.be/aD_yi5VjF78)
