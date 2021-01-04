@@ -33,7 +33,7 @@ Internal communications in a machine are done via a "bus." A bus is a physical p
 The system bus is the main pathway between the CPU and RAM, but also carries data to and from Input and Output (IO) devices.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/systembus.png" width=400>
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/systembus.png" width=200>
 </p>
 
 **Overview of Computer Components**
