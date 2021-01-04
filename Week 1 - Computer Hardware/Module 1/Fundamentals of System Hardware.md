@@ -71,7 +71,7 @@ The designers of the CPU create a set of instructions that the CPU can perform. 
 
 The fetch-execute cycle is how the CPU runs commands. First, it fetches or moves one instruction from RAM into the instruction register in the CPU. Then, it decodes that instruction and, if necessary, moves in additional parameters from RAM. Once everything is compiled in the CPU, the CPU executes the instruction. This process repeats with the next instruction in the sequence and can take as little as 10 nanoseconds.
 
-![fetch-execute cycle diagram](.../images/fetch-execute.png)
+![fetch-execute cycle diagram](https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/fetch-execute.png)
 
 **NOTE: Machine Language Explained**
 
