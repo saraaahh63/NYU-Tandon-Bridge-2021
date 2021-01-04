@@ -34,7 +34,7 @@ In base 10, there are ten digits we use to represent the quantity of objects.
 After 9, we start to group objects together and repeat digits. **Numbers are written in a positional notation**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum1.jpeg" width=200>
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum1.jpeg">
 </p>
 
 Writing 230 is like saying 2 groups of 100, 3 groups of 10, and 0 additional 1s. 100 is just 10 groups of 10 and 0 additional 10s and 1s. 10 is once group of 10 and 0 additional 1s.
