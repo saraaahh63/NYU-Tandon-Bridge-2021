@@ -71,7 +71,9 @@ The designers of the CPU create a set of instructions that the CPU can perform. 
 
 The fetch-execute cycle is how the CPU runs commands. First, it fetches or moves one instruction from RAM into the instruction register in the CPU. Then, it decodes that instruction and, if necessary, moves in additional parameters from RAM. Once everything is compiled in the CPU, the CPU executes the instruction. This process repeats with the next instruction in the sequence and can take as little as 10 nanoseconds.
 
-<img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/fetch-execute.png" width=500 style="text-align=center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/fetch-execute.png" width=500>
+</p>
 
 **NOTE: Machine Language Explained**
 
@@ -83,7 +85,9 @@ In order for code to be executed, it has to be in fetched into registers built i
 
 To address this, computers are built using a memory hierarchy. At the top of the hierarchy, things are incredibly fast, but tend to be much smaller and much more expensive like registers. At the bottom of the hierarchy, things are larger and cheaper, but much slower.
 
-<img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/memory.png" width=500 align=center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/memory.png" width=500>
+</p>
 
 ### RAM
 
