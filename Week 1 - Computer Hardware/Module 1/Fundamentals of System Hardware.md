@@ -1,12 +1,12 @@
 # Fundamentals of System Hardware
 
 **Learning Objectives**
-- [Define a Computer](#what-is-a-computer?)
-- [Understand Computer Components] (# Inside a Computer)
-- [How does the CPU work?] (# The CPU)
-- [What is the memory hierarchy?] (# Memory)
-- [What are hard disks?] (# Memory)
-- [What is networking?] (# Networking)
+- [Define a Computer](#what-is-a-computer)
+- [Understand Computer Components] (#inside-a-computer)
+- [How does the CPU work?] (#the-cpu)
+- [What is the memory hierarchy?] (#memory)
+- [What are hard disks?] (#memory)
+- [What is networking?] (#networking)
 
 ## What is a Computer?
 
