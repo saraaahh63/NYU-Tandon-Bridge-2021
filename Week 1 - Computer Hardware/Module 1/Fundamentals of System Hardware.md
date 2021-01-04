@@ -5,7 +5,7 @@
 - [Understand Computer Components](#inside-a-computer)
 - [How does the CPU work?](#the-cpu)
 - [What is the memory hierarchy?](#memory)
-- [What are hard disks?](#memory)
+- [What are hard disks?](#secondary-storage)
 - [What is networking?](#networking)
 
 ## What is a Computer?
