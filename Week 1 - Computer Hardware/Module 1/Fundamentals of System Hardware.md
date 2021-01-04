@@ -2,11 +2,11 @@
 
 **Learning Objectives**
 - [Define a Computer](#what-is-a-computer)
-- [Understand Computer Components] (#inside-a-computer)
-- [How does the CPU work?] (#the-cpu)
-- [What is the memory hierarchy?] (#memory)
-- [What are hard disks?] (#memory)
-- [What is networking?] (#networking)
+- [Understand Computer Components](#inside-a-computer)
+- [How does the CPU work?](#the-cpu)
+- [What is the memory hierarchy?](#memory)
+- [What are hard disks?](#memory)
+- [What is networking?](#networking)
 
 ## What is a Computer?
 
