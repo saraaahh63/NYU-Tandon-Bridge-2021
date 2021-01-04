@@ -8,6 +8,6 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
 **Contents**
 * Week 1: Computer Hardware, Number Systems, and Logic
   * [Module 1: Fundamentals of System Hardware](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%201%20-%20Computer%20Hardware/Module%201/Fundamentals%20of%20System%20Hardware.md)
-  * Module 2: Positional Number Systems
+  * [Module 2: Positional Number Systems](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%201%20-%20Computer%20Hardware/Module%202/Positional%20Number%20Systems.pdf)
   * Discrete Math: Propositional and Predicate Logic
 * Week 2
