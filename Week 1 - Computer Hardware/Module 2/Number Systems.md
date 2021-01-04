@@ -144,3 +144,9 @@ In a k-bit two's complement representation of a number:
 <p align="center">
   <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum6.jpeg">
 </p>
+
+## Additional Resources
+* [Introduction to Number Systems and Binary | Khan Academy Video](https://youtu.be/ku4KOFQ-bB4)
+* [Hexadecimal Number System | Khan Academy Video](https://www.youtube.com/watch?v=4EJay-6Bioo)
+* [Number Base Conversion Practice | Khan Academy Video](https://youtu.be/Fpm-E5v6ddc)
+* [Computer Number Systems | Tutorials Point](https://www.tutorialspoint.com/computer_fundamentals/computer_number_system.htm)
