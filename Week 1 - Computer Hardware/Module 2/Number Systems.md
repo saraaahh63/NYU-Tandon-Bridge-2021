@@ -37,7 +37,7 @@ After 9, we start to group objects together and repeat digits. **Numbers are wri
   <img src="https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/pnum1.jpeg">
 </p>
 
-Writing 230 is like saying 2 groups of 100, 3 groups of 10, and 0 additional 1s. 100 is just 10 groups of 10 and 0 additional 10s and 1s. 10 is once group of 10 and 0 additional 1s.
+Writing 230 is like saying 2 groups of 100, 3 groups of 10, and 0 additional 1s. 100 is just 10 groups of 10 and 0 additional 10s and 1s. 10 is one group of 10 and 0 additional 1s.
 
 Thus, 0-9 are used to represent all the different values you can have in each position.
 
