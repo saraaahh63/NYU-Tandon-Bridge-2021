@@ -85,7 +85,7 @@ What comes before 100?
 
 **Representation of number N in base b<sub>1</sub> --> Representation of number N in base b<sub>2</sub>**
 
-There are two methods of converting between bases. These methods use decimal of base 10 as a stepping stone for conversions.
+There are two methods of converting between bases. These methods use decimal or base 10 as a stepping stone for conversions.
 
 ### N in Base B to N in Decimal
 
