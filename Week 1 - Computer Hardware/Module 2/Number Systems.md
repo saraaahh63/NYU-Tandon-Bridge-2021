@@ -53,7 +53,7 @@ We are grouping 5 objects together so the digits we use are **0 1 2 3 4** only. 
 
 ## Counting in Base 2
 
-Since out computer system uses binary, meaning it only uses 0s and 1s, it is counting in Base 2.
+Since our computer system uses binary, meaning it only uses 0s and 1s, it is counting in Base 2.
 
 Digits: **0 1**
 
