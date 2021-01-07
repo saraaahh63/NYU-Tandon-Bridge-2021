@@ -194,5 +194,9 @@ which makes sense if we look at the truth table for p → q and ¬p ∨ q side b
 
 If one proposition can be obtained from another by a series of substitutions using equivalent expressions, then the two propositions are logically equivalent.
 
+Below is a list of propositional logic laws that you can substitute by.
+
+![Table of Propositional Logic Laws](https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%201%20-%20Computer%20Hardware/images/proplaws.png)
+
 
 
