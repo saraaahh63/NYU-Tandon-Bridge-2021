@@ -13,3 +13,7 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
       * [Propositional Logic](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%201%20-%20Computer%20Hardware/Discrete%20Math/Propositional%20Logic.md)
       * [Predicate Logic](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%201%20-%20Computer%20Hardware/Discrete%20Math/Predicate%20Logic.md)
 * Week 2
+  * Module 3: Hello World
+  * Module 4: Data Types and Expressions
+  * Discrete Math
+  * _Problem Solving with C++_ Reading Notes
