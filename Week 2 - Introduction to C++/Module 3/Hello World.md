@@ -3,7 +3,7 @@
 **Learning Objectives**
 * [Understand process of executing a program](#process-of-executing-a-program)
 * [Understand compilation](#compilation)
-* [Write a simple C++ program](#writing-a-c++-program)
+* [Write a simple C++ program](#writing-a-c-program)
 
 ## Process of Executing a Program
 
