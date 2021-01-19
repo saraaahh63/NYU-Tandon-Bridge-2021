@@ -16,3 +16,5 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
   * [Module 3: Hello World](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C++/Module%203/Hello%20World.md)
   * [Module 4: Data Types and Expressions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C++/Module%204/Data%20Types%20and%20Expressions.md)
   * Discrete Math
+      * [Logical Reasoning and Rules of Inference](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C++/Discrete%20Math/Logical%20Reasoning.md)
+      * Proofs
