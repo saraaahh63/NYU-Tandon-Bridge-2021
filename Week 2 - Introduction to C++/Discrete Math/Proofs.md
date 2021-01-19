@@ -53,13 +53,3 @@ A **proof by contradiction** starts by assuming that the theorem is false and th
 ### Proof by Cases
 
 A **proof by cases** of a universal statement such as ∀x P(x) breaks the domain for the variable x into different classes and gives a different proof for each class. Every value in the domain must be included in at least one class. 
-
-
-
-
-
-
-
-
-
-
