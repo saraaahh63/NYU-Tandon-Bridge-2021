@@ -30,7 +30,7 @@ In C++, 19 / 7 would return 2 and 19 % 7 would return 5.
 
 ### Coding Exercise: Weeks and Days
 
-This program takes a number as input and returns it as the number of full weeks and remaining days. You can find the code here. 
+This program takes a number as input and returns it as the number of full weeks and remaining days. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C%2B%2B/C%2B%2B%20Exercises/weeks%20and%20days/main.cpp). 
 
 ## Part 2: float and double
 
@@ -51,7 +51,7 @@ Since the data type is a float or double, the / operator will return real divisi
 
 ### Coding Exercise: Area of a Circle
 
-This program takes the radius of a circle and returns the area. You can find the code here. 
+This program takes the radius of a circle and returns the area. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C%2B%2B/C%2B%2B%20Exercises/area%20of%20circle/main.cpp). 
 
 ### Type Casting
 
@@ -94,7 +94,7 @@ Chars are mapped to numbers using the ASCII table and represented in memory usin
 
 ### Coding Exercise: What's My ASCII Value?
 
-This program reads a single character from the user and prints its ASCII value. You can find the code here.
+This program reads a single character from the user and prints its ASCII value. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C%2B%2B/C%2B%2B%20Exercises/ASCII/main.cpp).
 
 ### Forms of Data and Operators
 
@@ -116,7 +116,7 @@ Chars can be cast to ints and not lose any accuracy.
 
 ### Coding Exercise: Convert to UPPER CASE
 
-This program reads a lower case letter and retuns the upper case equivalent. You can find the code here.
+This program reads a lower case letter and retuns the upper case equivalent. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C%2B%2B/C%2B%2B%20Exercises/uppercase/main.cpp).
 
 ### The String Class
 
