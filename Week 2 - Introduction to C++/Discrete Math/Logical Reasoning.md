@@ -49,7 +49,7 @@ In a valid argument, the conclusion must follow from the hypotheses for every po
 
 Some arguments can be shown to be valid by applying rules that are themselves arguments that have already been shown to be valid. The laws of propositional logic can also be used in establishing the validity of an argument. 
 
-![img](.../images/rules.png)
+![img](https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%202%20-%20Introduction%20to%20C%2B%2B/images/rules.png)
 
 The validity of an argument can be established by applying the rules of inference and laws of propositional logic in a **logical proof**, which is a sequence of steps that consist of a proposition and a justification.
 
@@ -102,7 +102,7 @@ Thus, Larry is a particular element.
 
 The rules **existential instantiation** and **universal instantiation** replace a quantified variable with an element of the domain. The rules **existential generalization** and **universal generalization** replace an element of the domain with a quantified variable. Note that the rules only apply to non-nested quantifiers. Applying the rules of inference to nested quantifiers would require more constraints on which rules could be applied in particular situations. 
 
-![img](rules2.png)
+![img](https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%202%20-%20Introduction%20to%20C%2B%2B/images/rules2.png)
 
 It is important to define a new particular element with a new name for each use of existential instantiation within the same logical proof in order to avoid a faulty proof that an invalid argument is valid.
 
