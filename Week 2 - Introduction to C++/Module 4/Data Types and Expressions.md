@@ -2,7 +2,7 @@
 
 There are three fundamental concepts to understand in any programming language: data types, expressions, and control flows.
 
-![concept table](images/table.png)
+![concept table](https://raw.githubusercontent.com/saraaahh63/NYU-Tandon-Bridge-2021/main/Week%202%20-%20Introduction%20to%20C%2B%2B/images/table.png)
 
 ## Part 1: Integers and Operations
 
