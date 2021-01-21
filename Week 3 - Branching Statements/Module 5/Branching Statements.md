@@ -27,7 +27,7 @@
 
 **Computing the Absolute Value**
 
-This program reads an integer and prints its absolute value. You can find the code here.
+This program reads an integer and prints its absolute value. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/C%2B%2B%20Exercises/absolute%20value/main.cpp).
 
 ### Multi-Way if Statements (if-else)
 
@@ -92,15 +92,15 @@ This program is surprisingly valid in C++. Although the condition attached to th
 
 **Determining Parity**
 
-This program reads a positive integer and determines its parity. You can find the code here.
+This program reads a positive integer and determines its parity. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/C%2B%2B%20Exercises/parity/main.cpp).
 
 **Classifying a Character**
 
-This program reads a character and classifies it as either a lowercase letter, uppercase letter, digit, or a non alpha-numeric character. You can find the code here.
+This program reads a character and classifies it as either a lowercase letter, uppercase letter, digit, or a non alpha-numeric character. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/C%2B%2B%20Exercises/classify/main.cpp).
 
 **Convert 24-hour to 12-hour**
 
-This program reads a time entered in a 24-hour format, and returns the equivalent time in a 12-hour format. You can find the code here.
+This program reads a time entered in a 24-hour format, and returns the equivalent time in a 12-hour format. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/C%2B%2B%20Exercises/24-12/main.cpp).
 
 ## Switch Statements
 
@@ -134,7 +134,7 @@ First, numeric-expression is evaluated, then the case it matches is executed. br
 
 **Computing Value of A Simple Expression**
 
-This program reads a simple mathematical expression and returns its value. You can find the code here.
+This program reads a simple mathematical expression and returns its value. You can find the code [here](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/C%2B%2B%20Exercises/simple%20expression/main.cpp).
 
 
 
