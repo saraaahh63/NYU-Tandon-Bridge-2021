@@ -19,5 +19,5 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
       * [Logical Reasoning and Rules of Inference](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C++/Discrete%20Math/Logical%20Reasoning.md)
       * [Proofs](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%202%20-%20Introduction%20to%20C%2B%2B/Discrete%20Math/Proofs.md)
 * Week 3: Control Flow, Branching, and Sets
-  * Module 5: Branching Statements
+  * [Module 5: Branching Statements](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%203%20-%20Branching%20Statements/Module%205/Branching%20Statements.md)
   * Discrete Math
