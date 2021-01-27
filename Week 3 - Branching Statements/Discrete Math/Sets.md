@@ -48,7 +48,7 @@ D = E because for any a, a ∈ D if and only if a ∈ E. Remember that the order
 Some sets of numbers have their own symbols. Here are some of the most common examples:
 
 <p>
-  <img src="set-table.png" width=500>
+  <img src="set-table.png" width=600>
 </p>
 
 The superscript + indicates the positive elements of a particular set. For example:
