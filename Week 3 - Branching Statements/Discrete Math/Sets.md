@@ -48,7 +48,7 @@ D = E because for any a, a ∈ D if and only if a ∈ E. Remember that the order
 Some sets of numbers have their own symbols. Here are some of the most common examples:
 
 <p>
-  <img src="set-table.png" width=300>
+  <img src="set-table.png" width=500>
 </p>
 
 The superscript + indicates the positive elements of a particular set. For example:
@@ -105,8 +105,12 @@ In the absence of parentheses, the order in which operations are applied does no
 
 **Notation:**
 
-![img](intersect.png)
-![img](union.png)
+<p>
+  <img src="intersect.png" width=600>
+</p>
+<p>
+  <img src="union.png" width=600>
+</p>
 
 ### Set Difference and Symmetric Difference
 
@@ -164,7 +168,9 @@ A string of length n is also called an **n-bit string**. The set of binary strin
 
 The idea of a set identity is similar to an equivalence in logic which holds regardless of the truth values of the individual variable in the expressions.
 
-![img](set-identity.png)
+<p>
+  <img src="set-identity.png" width=600>
+</p>
 
 
 
