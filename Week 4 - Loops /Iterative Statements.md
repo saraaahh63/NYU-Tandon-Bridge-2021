@@ -16,7 +16,7 @@ Repeatedly execute { ... } **while** condition is true, skip if false.
 
 ### Coding Exercise: Let's Count
 
-Problem: Write a program that reads a positive integer n, and prints the numbers from 1 to n.
+Problem: Write a program that reads a positive integer n, and prints the numbers from 1 to n. [Code](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/C%2B%2B%20Exercises/count-while/main.cpp).
 
 ## For Loops
 
@@ -32,4 +32,4 @@ Problem: Write a program that reads a positive integer n, and prints the numbers
 
 ### Coding Exercise: Let's Count with Loops
 
-Problem: Write a program that reads a positive integer n, and prints the numbers from 1 to n.
+Problem: Write a program that reads a positive integer n, and prints the numbers from 1 to n. [Code](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/C%2B%2B%20Exercises/count-for/main.cpp).
