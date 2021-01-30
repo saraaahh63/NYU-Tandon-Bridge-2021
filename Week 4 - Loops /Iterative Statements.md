@@ -34,6 +34,6 @@ Problem: Write a program that reads a positive integer n, and prints the numbers
 
 Problem: Write a program that reads a positive integer n, and prints the numbers from 1 to n. [Code](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/C%2B%2B%20Exercises/count-for/main.cpp).
 
-## Additional Exercises
+### Additional Exercises
 * [Count and Sum](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/C%2B%2B%20Exercises/sum/main.cpp)
 * [Computing the Average](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/C%2B%2B%20Exercises/average/main.cpp)
