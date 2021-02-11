@@ -26,4 +26,4 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
   * [Module 6: Iterative Statements](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/Iterative%20Statements.md)
 * Week 5: Functions
   * Discrete Math
-    * Functions
+    * [Functions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%205%20-%20Discrete%20Math%20Functions/Math%20Functions.md)
