@@ -2,7 +2,7 @@
 
 Function calls are another control flow that can simplify and make code more efficient.
 
-### K-combinations Problem**
+### K-combinations Problem
 
 Let n and k be two nonnegative integers, such that we define k-combinations as the number of unordered selections of distinct elements from a set of n elements. (n choose k)
 
