@@ -1,8 +1,6 @@
 # NYU Tandon Bridge 2021 (24 Week)
 
-Personal notes, resources, and exercises for the [Computer Science Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge) at NYU Tandon School of Engineering.
-
-The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and more than 3 courses containing topics in computer programming in C++, object oriented design, discrete math, data structures and algorithms, principles of operating systems, and introduction to computer networks. Bridge candidates are eligble for graduate study in computer science upon succesful completion of the bridge program.
+Personal notes, resources, and exercises for the [Computer Science Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge) at NYU Tandon School of Engineering. The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and more than 3 courses containing topics in computer programming in C++, object oriented design, discrete math, data structures and algorithms, principles of operating systems, and introduction to computer networks. Bridge candidates are eligble for graduate study in computer science upon succesful completion of the bridge program.
 
 
 **Contents**
@@ -26,4 +24,9 @@ The CS Bridge is a 17-24 week program equivalent to 400 hours of learning and mo
   * [Module 6: Iterative Statements](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%204%20-%20Loops%20/Iterative%20Statements.md)
 * Week 5: Functions
   * Discrete Math
-    * Functions
+    * [Functions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%205%20-%20Discrete%20Math%20Functions/Math%20Functions.md)
+* Week 6: Algorithms
+  * Module 7: Algorithm Analysis
+  * Module 8: Functions
+* Week 7: Introduction to Counting
+  * Counting, Permutations, and Combinations
