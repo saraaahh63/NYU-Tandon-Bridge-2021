@@ -91,19 +91,19 @@ Code using functions:
 * Syntax: void func(int & x)
 * When passing by reference, a reference to the argument's position is passed.
 
-    int main() {
-        int a = 3, b = 4;
+        int main() {
+            int a = 3, b = 4;
 
-        cout<<a<<" "<<b<<endl;
-        swap(a, b);
-        cout<<a<<" "<<b<<endl;
+            cout<<a<<" "<<b<<endl;
+            swap(a, b);
+            cout<<a<<" "<<b<<endl;
 
-        return 0;
-    }
-    void swap(int& a, int& b) {
-        int temp;
-        temp = a;
-        a = b;
-        b = temp;
-    }
+            return 0;
+        }
+        void swap(int& a, int& b) {
+            int temp;
+            temp = a;
+            a = b;
+            b = temp;
+        }
 
