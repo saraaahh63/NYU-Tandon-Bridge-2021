@@ -27,6 +27,6 @@ Personal notes, resources, and exercises for the [Computer Science Bridge Progra
     * [Functions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%205%20-%20Discrete%20Math%20Functions/Math%20Functions.md)
 * Week 6: Algorithms
   * Module 7: Algorithm Analysis
-  * Module 8: Functions
+  * [Module 8: Functions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%206%20-%20Algorithms/Module%208/Functions.md)
 * Week 7: Introduction to Counting
   * Counting, Permutations, and Combinations
