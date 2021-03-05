@@ -31,4 +31,6 @@ Personal notes, resources, and exercises for the [Computer Science Bridge Progra
 * Week 7: Introduction to Counting
   * Counting, Permutations, and Combinations
 * Week 8: Arrays & Probability
+  * [Module 9: Arrays](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%208%20-%20Arrays%20and%20Probability/Module%209/Arrays.md)
+  * [Module 10: Strings](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%208%20-%20Arrays%20and%20Probability/Module%2010/Strings.md)
 
