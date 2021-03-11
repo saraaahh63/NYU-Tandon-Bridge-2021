@@ -37,5 +37,5 @@ Personal notes, resources, and exercises for the [Computer Science Bridge Progra
   * Discrete Math
     * Probability
 * Week 9 & 10: Pointers
-  * [Module 11: Pointers and Dynamic Storage]
+  * [Module 11: Pointers and Dynamic Storage](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%209%20-%20Pointers/Module%2011/Pointers.md)
 * Week 11
