@@ -29,8 +29,13 @@ Personal notes, resources, and exercises for the [Computer Science Bridge Progra
   * [Module 7: Algorithm Analysis](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%206%20-%20Algorithms/Module%207/Algorithm%20Analysis.md)
   * [Module 8: Functions](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%206%20-%20Algorithms/Module%208/Functions.md)
 * Week 7: Introduction to Counting
-  * Counting, Permutations, and Combinations
+  * Discrete Math
+    * Counting, Permutations, and Combinations
 * Week 8: Arrays & Probability
   * [Module 9: Arrays](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%208%20-%20Arrays%20and%20Probability/Module%209/Arrays.md)
   * [Module 10: Strings](https://github.com/saraaahh63/NYU-Tandon-Bridge-2021/blob/main/Week%208%20-%20Arrays%20and%20Probability/Module%2010/Strings.md)
-
+  * Discrete Math
+    * Probability
+* Week 9 & 10: Pointers
+  * [Module 11: Pointers and Dynamic Storage]
+* Week 11
